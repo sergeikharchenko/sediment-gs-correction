@@ -22,7 +22,7 @@ This repository provides R scripts to calculate granulometric (particle size) co
 
 ## Repository Structure
 - `/R` - Contains the core functions (`gs_functions.R`).
-- `/data` - Place your input Excel files here (examples included).
+- `/data` - Place your input Excel files here (**syntetic** examples included).
 - `/output` - Corrected chemistry tables will be saved here.
 - `main.R` - The main executable script.
 
