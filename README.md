@@ -42,5 +42,3 @@ The calculation of the specific surface area is based on the assumption of spher
 3. Number of particles: $N = \frac{\text{Volume Fraction}}{V}$
 4. Particle surface area: $S = 4 \pi \cdot \left(\frac{D_{mean}}{2}\right)^2$
 5. Total fraction surface area: $S_{total} = S \cdot N$
-
-*Developed for compatibility with packages like `fingerPro` and `MixSIAR`.*
